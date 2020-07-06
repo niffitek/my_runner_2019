@@ -1,0 +1,14 @@
+Finite runner created with CSFML.
+
+USAGE
+
+./my_runner map.txt
+
+OPTIONS
+
+-i launch the game in infinity mode.
+-h print the usage and quit.
+
+USER INTERACTIONS
+
+SPACE_KEY jump.
